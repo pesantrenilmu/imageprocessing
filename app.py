@@ -11,6 +11,10 @@ def index():
 @app.route('/analisis-citra')
 def analisis_citra():
     return render_template('pages/analisis.html',page='Analisis')
+
+@app.route('/tips-kesehatan')
+def tips_kesehatan():
+    return render_template('pages/tipskesehatan.html',page='Tips Kesehatan')
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=8000, debug=True)
  
