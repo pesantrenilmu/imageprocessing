@@ -1,3 +1,10 @@
-tentang project:
 
-1. membuat satu
+
+# Image Processing
+Aplikasi ini bertujuan untuk mengolah citra gambar.
+Modul yang diperlukan:
+1. Flask
+2. Plotly
+3. Pandas
+4. Opencv
+>>>>>>> 89c6c638a7df74bf316f02fb7d5541410d36f639
