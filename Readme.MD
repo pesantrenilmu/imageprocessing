@@ -5,3 +5,6 @@ Modul yang diperlukan:
 2. Plotly
 3. Pandas
 4. Opencv
+
+Cara Install modul:
+<code>pip install pandas</code>
